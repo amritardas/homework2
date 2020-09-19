@@ -1,25 +1,24 @@
+body{
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
 h1{
-    font-family: "Lucida Grande", sans-serif;
+	font-family: "Lucida Grande", sans-serif;
     font-size: 64px;
-    text-align: center;
-    color: #FFFFFF;
-    background: #000000;
+	text-align: center;
 }
 
 h2{
-    font-family: "Lucida Grande", sans-serif;
+	font-family: "Lucida Grande", sans-serif;
     font-size: 32px;
-    text-shadow: 5px 5px 2px #808080;
-    color: #FFFFFF;
-    background: #000000;
+	text-shadow: 5px 5px 2px #808080;
 }
 
 p{
-    font-family: "Lucida Grande", sans-serif;
+	font-family: "Lucida Grande", sans-serif;
     font-size: 24px;
-    padding-top: 20px;
-    color: #FFFFFF;
-    background: #000000;
+	padding-top: 20px;
 }
 
 img{
