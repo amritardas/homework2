@@ -1,4 +1,4 @@
-body{
+header, footer{
 	background-color: #000000;
 }
 
@@ -61,7 +61,6 @@ div{
 #green{
     background: #008000;
     text-align: left;
-
 }
 
 footer p{
