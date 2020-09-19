@@ -2,24 +2,24 @@ h1{
     font-family: "Lucida Grande", sans-serif;
     font-size: 64px;
     text-align: center;
-    color: #000000;
-    background: #FFFFFF;
+    color: #FFFFFF;
+    background: #000000;
 }
 
 h2{
     font-family: "Lucida Grande", sans-serif;
     font-size: 32px;
     text-shadow: 5px 5px 2px #808080;
-    color: #000000;
-    background: #FFFFFF;
+    color: #FFFFFF;
+    background: #000000;
 }
 
 p{
     font-family: "Lucida Grande", sans-serif;
     font-size: 24px;
     padding-top: 20px;
-    color: #000000;
-    background: #FFFFFF;
+    color: #FFFFFF;
+    background: #000000;
 }
 
 img{
